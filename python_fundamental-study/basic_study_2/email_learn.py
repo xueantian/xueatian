@@ -17,7 +17,7 @@ def _format_addr(s):
 
 
 from_addr = 'tianxuean@gmail.com'
-password = input('Password: ')
+password = input('Password: ')# should input the application password, to get it on gmail.
 to_addr = input('To: ')
 #smtp_server = input('SMTP server: ')
 
