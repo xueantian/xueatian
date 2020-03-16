@@ -42,4 +42,4 @@ server.quit()
 
 
 if __name__ == '__main__':
-    _format_addr('hello David')
+    _format_addr('hello')
